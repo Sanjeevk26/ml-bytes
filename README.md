@@ -32,7 +32,3 @@ Using an **Airport Security Scanner** story, this module explains:
 - Precision vs Recall trade-offs
 - How thresholds affect model behavior
 - When and why F1 score matters
-
-📄 Script:
-```bash
-ml_bytes_metrics.py
