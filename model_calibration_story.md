@@ -174,9 +174,10 @@ Calibration | Did the confidence match reality? |
 
 ---
 
-## Final Thought
+## One-Line Summary
 
-An accurate model tells you the right answer.
+- Accuracy measures **correctness of decisions**
+- Calibration measures **honesty of confidence**
 
 A calibrated model tells you how much to trust that answer.
 
