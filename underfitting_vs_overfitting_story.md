@@ -113,8 +113,3 @@ This is the balance machine learning aims for.
 
 ---
 
-## Final Thought
-
-If a model can explain new data it has never seen before, it has learned something meaningful.
-
-If it can only explain the past perfectly, it has not.
